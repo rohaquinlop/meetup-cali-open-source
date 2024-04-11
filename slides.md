@@ -3,8 +3,7 @@
 theme: the-unnamed
 # background: https://cover.sli.dev
 # some information about your slides, markdown enabled
-title: 'Atravesando fronteras digitales: Mi recorrido en el mundo Open-Source'
-info: Presentation slides for developers
+title: 'De novato a contribuidor: Mi experiencia en el mundo Open-Source'
 # apply any unocss classes to the current slide
 class: text-center
 # https://sli.dev/custom/highlighters.html
@@ -18,7 +17,7 @@ transition: slide-left
 mdc: true
 ---
 
-# Open-Source: Una perspectiva personal
+# De novato a contribuidor: Mi experiencia en el mundo Open-Source
 
 ---
 layout: about-me
@@ -34,3 +33,15 @@ social2: https://github.com/rohaquinlop
 social3: Python | Rust | Nix | C++
 ---
 
+---
+layout: center
+---
+
+# Proyectos
+
+- [cp-algorithms](https://cp-algorithms.com/)
+- [automathon](https://github.com/rohaquinlop/automathon)
+- [Rust](https://www.rust-lang.org/es)
+- [Makes](https://github.com/fluidattacks/makes)
+- [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner)
+- [complexipy](https://github.com/rohaquinlop/complexipy)
