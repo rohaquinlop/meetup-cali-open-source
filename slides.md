@@ -44,7 +44,6 @@ layout: center
 - [automathon](https://github.com/rohaquinlop/automathon)
 - [Rust](https://www.rust-lang.org/es)
 - [Makes](https://github.com/fluidattacks/makes)
-- [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner)
 - [complexipy](https://github.com/rohaquinlop/complexipy)
 
 ---
@@ -135,6 +134,7 @@ layout: two-cols
 # [automathon](https://github.com/rohaquinlop/automathon)
 
 ![NFA Visualization](https://github.com/rohaquinlop/automathon/assets/50106623/966f4389-7862-4e5f-a5f4-c007c3a836b4)
+Imagen generada usando automathon
 
 ```python
 automata.accept("0000011")   #True
@@ -177,18 +177,104 @@ automata = NFA(q, sigma, delta, initial_state, f)
 layout: center
 ---
 
-# [Rust](https://www.rust-lang.org/es)
+# [🦀 Rust](https://www.rust-lang.org/es)
 
-A language empowering everyone
-to build reliable and efficient software.
+El lenguaje que empodera a todos
+para construir software fiable y eficiente.
+
+<img src="/imgs/rust-fst-issue.png" width="500" height="300">
+
+<br>
+
+<v-click>
+
+<img src="/imgs/rust-scn-issue.png" width="500" height="300">
+
+</v-click>
 
 ---
 layout: center
 ---
 
-# Contáctame
+# [🦄 Makes](https://github.com/fluidattacks/makes)
+
+A software supply chain framework powered by Nix.
+
+<img src="/imgs/makes-demo.svg" width="400" height="400">
+
+---
+layout: center
+---
+
+# [🐙 complexipy](https://github.com/rohaquinlop/complexipy)
 
 <br>
+
+<img src="/imgs/complexipy.svg" width="500" height="300">
+
+---
+layout: two-cols
+---
+
+# [🐙 complexipy](https://github.com/rohaquinlop/complexipy)
+
+![G Ann Campbell](https://avatars.githubusercontent.com/u/1313491?v=4)
+
+G. Ann Campbell
+
+Autora principal de complejidad cognitiva
+
+::right::
+
+<v-click>
+<img src="/imgs/cognitive-complexity.png">
+</v-click>
+
+
+<br>
+
+<v-click>
+<img src="/imgs/cognitive-complexity-ex.png">
+</v-click>
+
+---
+layout: center
+---
+
+# [🐙 complexipy](https://github.com/rohaquinlop/complexipy)
+
+<br>
+
+<img src="/imgs/complexipy-cli.png">
+
+<br>
+
+Inspirado en el trabajo de G. Ann Campbell, y en los proyectos de [Astral](https://github.com/astral-sh)
+
+---
+layout: two-cols
+---
+
+# Trabajo a futuro
+
+## [🦦 typycheck](https://github.com/rohaquinlop/typycheck)
+
+![](/imgs/typycheck.svg)
+
+Alternativa a mypy.
+
+::right::
+
+<v-click>
+<img src="/imgs/typycheck.png">
+</v-click>
+
+
+---
+layout: center
+---
+
+# ¡Muchas gracias!
 
 Github
 
